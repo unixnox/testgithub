@@ -1,3 +1,7 @@
 This is a test 1st github modified
 
+<<<<<<< HEAD
 Test by tor
+=======
+Test edit
+>>>>>>> origin/master
